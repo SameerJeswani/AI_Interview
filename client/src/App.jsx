@@ -11,7 +11,7 @@ import Home from './pages/Home'
 import Auth from './pages/Auth'
 import { setUserData } from './redux/userSlice'
 
-export const ServerUrl = "http://localhost:5000"
+export const ServerUrl = "https://sameer-jeswani-ai-interview.onrender.com"
 
 function App() {
 
