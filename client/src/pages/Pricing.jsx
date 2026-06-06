@@ -7,7 +7,7 @@ import axios from "axios";
 import { useDispatch } from "react-redux";
 import { setUserData } from "../redux/userSlice";
 
-const ServerUrl = "http://localhost:5000";
+const ServerUrl = "https://sameer-jeswani-ai-interview.onrender.com";
 
 function Pricing() {
    console.log("ENV:", import.meta.env);
